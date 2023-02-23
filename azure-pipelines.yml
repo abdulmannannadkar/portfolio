@@ -1,8 +1,3 @@
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-- task: PythonScript@0
-  inputs:
-    scriptSource: 'filePath'
-    scriptPath: 'FIM/fim.py'
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
